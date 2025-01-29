@@ -1,2 +1,2 @@
 # fundraising_dashboard
-##[Demo]("https://imaginative-faun-f671b7.netlify.app/")
+[Check Out Our Dashboard Here](https://imaginative-faun-f671b7.netlify.app/)
